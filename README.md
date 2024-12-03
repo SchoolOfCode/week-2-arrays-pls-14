@@ -25,7 +25,7 @@ Time to dive into action! 🏊‍♀️ Here's what you'll be working on:
 1. create a HTML file in this workshop folder
 2. paste the following code into your newly created HTML file and familiarise yourself with the code
 
-```html
+html
 <!DOCTYPE html>
 <html>
   <head>
